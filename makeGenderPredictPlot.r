@@ -25,8 +25,6 @@ print(paste0("Input file: ", args[1]))
 print(paste0("Annotation file: ", args[2]))
 print(paste0("Prefix for Output file: ", args[3]))
 
-##/sc/orga/projects/sharpa01a/Paras/Dataset/illumina_450K_annotation
-
 input_file = args[1]
 annotation_file = args[2]
 prefix = args[3]
